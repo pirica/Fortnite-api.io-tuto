@@ -6,7 +6,7 @@
 Tutoriels déjà disponibles:
 * Episode 1 : REQUETES SIMPLES ET DEBUT SUR FORTNITEAPI.IO 
 URL : *[Youtube](https://youtu.be/qXnfcwEXES0)*
-Contenu : *[Voir](https://github.com/Intermarket-Discord/Fortnite-api.io-tuto/blob/main:README.md#episode-1)*
+Contenu : *[Voir](https://github.com/Intermarket-Discord/Fortnite-api.io-tuto/blob/main/README.md#episode-1)*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Contenu : *[Voir](https://github.com/Intermarket-Discord/Fortnite-api.io-tuto/bl
 Tutorials already available:
 * Episode 1: SIMPLE REQUESTS AND BEGINNING ON FORTNITEAPI.IO
 URL : *[Youtube](https://youtu.be/qXnfcwEXES0)*
-Content : *[See](https://github.com/Intermarket-Discord/Fortnite-api.io-tuto/blob/main:README.md#episode-1)*
+Content : *[See](https://github.com/Intermarket-Discord/Fortnite-api.io-tuto/blob/main/README.md#episode-1)*
 # Episode 1
 🇫🇷 | Dans cette vidéo nous avons commencé par expliquer les bases de fortniteapi.io avec les requetes de base ainsi que la toute premiere commande (shopcontent) Il est conseillé de voir la vidéo afin de tout comprendre!
 
